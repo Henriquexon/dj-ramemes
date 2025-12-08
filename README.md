@@ -3,21 +3,21 @@
 ![ramemes]()
 
 * ## **Registro Geral**
-    **Idade:** 17 anos</br>
-    **Nível:** 5 </br>
-    **Clã:** Sarutobi (8 Pontos)</br>
-    **Habilidade Inata:** -</br>
-    **Ryou:** 0 Ryou </br>
+    **Carregamento de Chakra:** 10 de Chakra </br>
+    **Deslocamento** 4 Metros (5 + Destreza) </br>
+    **Dano do Soco:** 1d4 (Nível 1) </br>
+    **PA's:** 3 </br>
+    **Idade:** 17 anos </br>
+    **Nível:** 05 </br>
+    **Clã:** Sarutobi (8 Pontos) </br>
+    **Habilidade Inata:** - </br>
     **Classe:** Usuário de Chakra </br>
-    **Alinhamento:** Lawful Good</br>
+    **Alinhamento:** Lawful Good </br>
+    **Ryou:** 0 Ryou </br>
     **Fraqueza:** </br>
     **Ideal:** </br>
     **Vínculo:** </br>
     **Elemento:** Katon; Fuuton; Raiton </br>
-    **Quantidade de PA por Turno:** 4</br>
-    **Deslocamento** 4 Metros (5 + Destreza)</br>
-    **Carregamento de Chakra:** 10 de Chakra </br>
-    **Dano do Soco:** 1d4 (Nível 1)</br>
    ***
 
 * ## **Vida e Chakra**
@@ -36,21 +36,23 @@
     | DN | Nin¹ | Nin² | Tai | Int | Cons |  Des | Gen | Contra-Ataque | Ajuda |  
     | :--: | :--:  | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |                  
     |**Inicial**| 8 | 8 | 6 |  9 |  10 |  6 |  8 |  4 |  6 |  
-    | **Final**| 12 | 12  | 5 |  12 | 12 | 5 |  - |  7  |  9 |
+    | **Final**| 11 | 11  | 5 |  10 | 11 | 5 |  - |  7  |  9 |
 
     #### **Técnicas Usadas**
-    **Ninjutsu¹:** Kawarimi no Jutsu (Técnica de Substituição de Corpo) </br>
-    **Ninjutsu²:** Técnica de Defesa da Marionete </br>
-    **Taijutsu:** Desvio</br>
+    **Ninjutsu¹:** </br>
+    **Ninjutsu²:** </br>
+    **Taijutsu:** Desvio </br>
     **Inteligência:** Genjutsu Kai (Dissipação de Genjutsu) </br>
-    **Constituição:** Absorver Dano</br>
-    **Destreza:** Arma Corpo-a-Corpo</br>
+    **Constituição:** Absorver Dano </br>
+    **Destreza:** Arma Corpo-a-Corpo </br>
     **Genjutsu:** - </br>
-    **Contra-ataque:** Ataque Corpo-a-Corpo de Marionete</br>
-    **Ajuda:** 
+    **Contra-ataque:** </br>
+    **Ajuda: ** 
 
-* ## **Especializações (+2 de mod)**
-    #### Percepção (Inteligência): 5
+* ## **Especializações (+1 de mod)**
+    #### Persuasão (Carisma ou Genjutsu): 3
+
+     Quando você tenta influenciar alguém ou um grupo de pessoas com tato, delicadeza ou boa índole, o Mestre pode pedir para você fazer um teste de Persuasão. Normalmente, você usa a Persuasão quando está agindo de boa fé, para promover amizades, fazer pedidos cordiais    ou exibir a etiqueta apropriada. Exemplos de persuadir os outros incluem convencer um ninja a deixar seu grupo ver o kage, negociar a paz entre duas vilas em conflito ou inspirar uma multidão de pessoas da região. 
 
 * ## **Talentos - 5 PC e 4 PP**
      #### **ELEMENTALISTA - 4 PC**
@@ -69,6 +71,48 @@
   
 * ## **Itens (3,5/3,5 Kg)**
 
+
+* # **Jutsus**
+    * ## **Ninjutsus**
+    ### **Kawarimi no Jutsu (Técnica de Substituição de Corpo)** </br>
+    **Custo:** 4 de Chakra </br>
+    **Rank:** D </br>
+    **Efeito:** *Defesa.* Substitui o corpo do ninja por um toco de madeira ou qualquer outro objeto do cenário. Reaparece numa distância de 1m do local onde estava. </br>
+    **Dano:** - </br>
+    **Range:** - </br>
+    **Custo de Ações:** Turno de Defesa </br>
+
+    ### **Kinobiri** </br>
+    **Custo:** - </br>
+    **Rank:** D </br>
+    **Efeito:** Habilita o ninja a andar em superfícies inclinadas. Não utiliza selos de mão. </br>
+    **Dano:** - </br>
+    **Range:** - </br>
+    **Custo de Ações:** - </br>
+
+    ### **Mizu no Kinobiri** </br>
+    **Custo:** 1 de Chakra por Turno </br>
+    **Rank:** D </br>
+    **Efeito:** Habilita o ninja a andar em superfícies inclinadas. Não utiliza selos de mão. </br>
+    **Dano:** - </br>
+    **Range:** - </br>
+    **Custo de Ações:** - </br>
+
+    ### **Shunshin no Jutsu (Técnica de Cintilação Corporal)** </br>
+    **Custo:** 5 de Chakra </br>
+    **Rank:** D </br>
+    **Efeito:** O ninja concentra chakra nos pés, se deslocando em linha reta uma distância de 5m + deslocamento. Limite de 1 uso por turno. Não utiliza selos de mão. </br>
+    **Dano:** - </br>
+    **Range:** - </br>
+    **Custo de Ações:** 1 PA </br>
+
+    ### **Genjutsu Kai (Dissipação de Genjutsu)** </br>
+    **Custo:** 5 de Chakra por Genjutsu </br>
+    **Rank:** D </br>
+    **Efeito:** Após um usuário de Genjutsu falhar na rolagem contra sua DN de Inteligência, você utiliza essa técnica para se desfazer de todos Genjutsus que seu adversário mantinha em você. Pode ser utilizado em um aliado que estiver no seu alcance enquanto estiver no seu turno de ataque, nesse caso irá dissipar todos os Genjutsus que ele estiver sob efeito sem nenhum tipo de teste. Não necessita de selos de mão. </br>
+    **Dano:** - </br>
+    **Range:** Corpo-a-Corpo </br>
+    **Custo de Ações:** 2 PA </br>
 
 * # **História**
 Na região de [?] existe uma aldeia movida por dois grupos de seguidores, os seguidores a Febo, e os seguidores de Baco.
