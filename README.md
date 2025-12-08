@@ -1,36 +1,36 @@
-# **Uzumaki Tey**
+# **DJ Ramemes**
 
-![Tey](Tey/Tey.jpg)
+![ramemes]()
 
 * ## **Registro Geral**
     **Idade:** 17 anos</br>
-    **Nível:** 11 </br>
-    **Clã:** Uzumaki (15 Pontos)</br>
+    **Nível:** 5 </br>
+    **Clã:** Sarutobi (8 Pontos)</br>
     **Habilidade Inata:** -</br>
-    **Ryou:** 2.343 Ryou </br>
-    **Classe:** Reservatório de Chakra </br>
-    **Alinhamento:** Lawful Evil (LE)</br>
+    **Ryou:** 0 Ryou </br>
+    **Classe:** Usuário de Chakra </br>
+    **Alinhamento:** Lawful Good</br>
     **Fraqueza:** </br>
-    **Ideal:** Achar Finas e acabar com as vilas de Konoha e Suna, juntamente com seus Kages</br>
-    **Vínculo:** Boneco do Finas</br>
-    **Elemento:** Raiton </br>
+    **Ideal:** </br>
+    **Vínculo:** </br>
+    **Elemento:** Katon; Fuuton; Raiton </br>
     **Quantidade de PA por Turno:** 4</br>
     **Deslocamento** 4 Metros (5 + Destreza)</br>
-    **Carregamento de Chakra:** 10 </br>
+    **Carregamento de Chakra:** 10 de Chakra </br>
     **Dano do Soco:** 1d4 (Nível 1)</br>
    ***
 
 * ## **Vida e Chakra**
-    | Tey | HP (4 + 2) x level| CP 5 + 50 + (12 + 4) x level |                        
+    | Ramemes | HP (6) x level| CP 10 + 10 + (10 x level) |                        
     | :--: | :--:  | :--: |                  
-    |**Máximo**| 66  | 231 | 
-    | **Atual**| 66 | 231 |
+    |**Máximo**| 31  | 70 | 
+    | **Atual**| 31 | 70 |
 
 * ## **Atributos**
     ### **Tey**
     | CAR | CONS | DES | GEN | INT | NIN | TAI |
     | :--: | :--:  | :--:  | :--:  | :--: | :--:  | :--:  | 
-    | -1 | 2 | -1 | 0 | 3 | 4 | -1 |
+    | +2 | +1 | -1 | -1 | +1 | +3 | -1 |
 
 * ## **Defesas Ninja (DN)**
     | DN | Nin¹ | Nin² | Tai | Int | Cons |  Des | Gen | Contra-Ataque | Ajuda |  
@@ -53,20 +53,21 @@
     #### Percepção (Inteligência): 5
 
 * ## **Talentos - 5 PC e 4 PP**
-     #### **CHAKRA ELEVADO - 1 PC**
-    
-     O ninja ganha +5 de chakra para cada PC gasto.
+     #### **ELEMENTALISTA - 4 PC**
 
-    #### **BURGUÊS - 2 PC**
+    #### **RECUPERAÇÃO CONCETRADA - 3 PC**
+
+    #### **UM PASSO A FRENTE - 3 PC**
+
+    #### **CHAKRA ELEVADO - 2/2 PC**
 
 * ## **Perícias**
-  #### **Perícia em Kugutsu (2)**
-  **Garante:** Um acréscimo de 25 pontos no chakra total e 500g no seu limite de carregamento.  </br>
-  **Se obtida uma vez:** Permite que o ninja conserte as marionetes por meio de um kit de reparos e seu número máximo de opções na DN de Ninjutsu se torna 2.</br>
-  **Se obtida duas vezes:** +1 de Ninjutsu; 4 Pontos de Perícia; Habilita o jogador a manipular uma marionete a mais, totalizando 2, desconsiderando outros meios. **Dedos Ágeis (4):** Pode controlar 1 marionete extra.</br>
+  #### **Perícia em Ninjutsu (1)**
+  **Garante:** Ou um acréscimo de 10 pontos no chakra total ou conseguir mais um elemento. Nos dois casos o ninja ganha +5 pontos na regeneração de chakra. </br>
+  **Se obtida uma vez:** Seu número máximo de opções na DN de Ninjutsu se torna 2. </br>
    ***
   
-* ## **Itens (5,5/5,5 Kg)**
+* ## **Itens (3,5/3,5 Kg)**
 
 
 * # **História**
