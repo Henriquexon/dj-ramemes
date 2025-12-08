@@ -114,6 +114,31 @@
     **Range:** Corpo-a-Corpo </br>
     **Custo de Ações:** 2 PA </br>
 
+    * ## **Katon**
+    ### **Katon: Endan (Estilo do Fogo: Bola de Fogo)** </br>
+    **Custo:** 10 de Chakra </br>
+    **Rank:** C </br>
+    **Efeito:** Cospe uma bola de fogo no seu alvo </br>
+    **Dano:** 1d6 + 1d8 </br>
+    **Range:** Médio </br>
+    **Custo de Ações:** 2 PA </br>
+
+    ### **Fūton: Daitoppa (Estilo do Vento: Grande Destruição)** </br>
+    **Custo:** 10 de Chakra </br>
+    **Rank:** C </br>
+    **Efeito:** Lança uma rajada de ar pela boca, empurrando seu alvo. </br>
+    **Dano:** 5d4 </br>
+    **Range:** Médio </br>
+    **Custo de Ações:** 2 PA </br>
+
+    ### **Raiton: Raijū Tsuiga (Estilo Raio: Rastreamento de Presa da Besta Relâmpago)** </br>
+    **Custo:** 10 de Chakra </br>
+    **Rank:** C </br>
+    **Efeito:** O ninja concentra chakra do elemento Raiton na sua mão e então libera ele na forma de um cachorro, que vai em direção ao seu alvo e o ataca. </br>
+    **Dano:** 1d8 + 2d4 </br>
+    **Range:** Médio </br>
+    **Custo de Ações:** 2 PA </br>
+
 * # **História**
 Na região de [?] existe uma aldeia movida por dois grupos de seguidores, os seguidores a Febo, e os seguidores de Baco.
 Ambos os grupos não violentos, decidiram formar essa aldeia mesmo tendo crenças totalmente opostas, sendo os seguidores de Febo acreditando que para atingir a ilumação na vida de forma filosófica, é necessário o conhecimento através das artes e da músicas.
