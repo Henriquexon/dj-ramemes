@@ -27,7 +27,7 @@
     | **Atual**| 31 | 70 |
 
 * ## **Atributos**
-    ### **Tey**
+    ### **Ramemes**
     | CAR | CONS | DES | GEN | INT | NIN | TAI |
     | :--: | :--:  | :--:  | :--:  | :--: | :--:  | :--:  | 
     | +2 | +1 | -1 | -1 | +1 | +3 | -1 |
@@ -39,15 +39,15 @@
     | **Final**| 11 | 11  | 5 |  10 | 11 | 5 |  - |  7  |  9 |
 
     #### **Técnicas Usadas**
-    **Ninjutsu¹:** </br>
+    **Ninjutsu¹:** Kawarimi no Jutsu (Técnica de Substituição de Corpo) </br>
     **Ninjutsu²:** </br>
     **Taijutsu:** Desvio </br>
     **Inteligência:** Genjutsu Kai (Dissipação de Genjutsu) </br>
     **Constituição:** Absorver Dano </br>
     **Destreza:** Arma Corpo-a-Corpo </br>
     **Genjutsu:** - </br>
-    **Contra-ataque:** </br>
-    **Ajuda: ** 
+    **Contra-ataque:** Fūton: Daitoppa (Estilo do Vento: Grande Destruição)</br>
+    **Ajuda: Fūton: Daitoppa (Estilo do Vento: Grande Destruição)** 
 
 * ## **Especializações (+1 de mod)**
     #### Persuasão (Carisma ou Genjutsu): 3
@@ -70,7 +70,7 @@
    ***
   
 * ## **Itens (3,5/3,5 Kg)**
-
+</br>
 
 * # **Jutsus**
     * ## **Ninjutsus**
