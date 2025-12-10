@@ -114,6 +114,7 @@
     **Range:** Corpo-a-Corpo </br>
     **Custo de Ações:** 2 PA </br>
 
+
     * ## **Katon**
     ### **Katon: Endan (Estilo do Fogo: Bola de Fogo)** </br>
     **Custo:** 10 de Chakra </br>
@@ -123,6 +124,8 @@
     **Range:** Médio </br>
     **Custo de Ações:** 2 PA </br>
 
+
+    * ## **Fuuton**
     ### **Fūton: Daitoppa (Estilo do Vento: Grande Destruição)** </br>
     **Custo:** 10 de Chakra </br>
     **Rank:** C </br>
@@ -131,6 +134,8 @@
     **Range:** Médio </br>
     **Custo de Ações:** 2 PA </br>
 
+    
+    * ## **Raiton**
     ### **Raiton: Raijū Tsuiga (Estilo Raio: Rastreamento de Presa da Besta Relâmpago)** </br>
     **Custo:** 10 de Chakra </br>
     **Rank:** C </br>
@@ -139,6 +144,11 @@
     **Range:** Médio </br>
     **Custo de Ações:** 2 PA </br>
 
+    
+    * ## **Vibração**
+
+
+   
 * # **História**
 Na região de [?] existe uma aldeia movida por dois grupos de seguidores, os seguidores a Febo, e os seguidores de Baco.
 Ambos os grupos não violentos, decidiram formar essa aldeia mesmo tendo crenças totalmente opostas, sendo os seguidores de Febo acreditando que para atingir a ilumação na vida de forma filosófica, é necessário o conhecimento através das artes e da músicas.
@@ -150,10 +160,18 @@ Ramemes cresceu ouvindo tanto as músicas, poesias e vendo as pinturas de Febo, 
 
 [...]
 
-Ramemes se apaixonou por Helena. Desde então escreve musicas para ela.
+Ramemes conheceu Helena ainda criança, e criaram um vinculo muito forte.
+
+[...]
+
+Ramemes foi se apaixonando por Helena por o passar dos anos. Desde então escreve musicas para ela.
+
+[...]
+
+Ramemes viu Helena sendo "sequestrada", e ao tentar falar para os outros da vila, ninguem acreditou nele e os expulsaram da vila.
 
 [...]
 
 Ramemes foi chamado para realizar uma apresentação na sauna Guaíba.
-Ramemes quer entrar na tavola redonda, se tornar influente o suficiente para achar Helena
+Ramemes quer entrar na tavola redonda, se tornar influente o suficiente para achar Helena.
 
