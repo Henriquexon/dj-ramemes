@@ -1,6 +1,6 @@
 # **DJ Ramemes**
 
-![ramemes]()
+![Ramemes](djramemes-sexo.png)
 
 * ## **Registro Geral**
     **Carregamento de Chakra:** 10 de Chakra </br>
