@@ -156,7 +156,7 @@
 
     
     * ## **Vibração**
-    ### **Vibração: ** </br>
+    ### **Vibração:** </br>
     **Custo:** 6 de Chakra </br>
     **Rank:** C </br>
     **Efeito:** Stun da KG e Derruba </br>
