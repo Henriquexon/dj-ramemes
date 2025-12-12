@@ -23,8 +23,8 @@
 * ## **Vida e Chakra**
     | Ramemes | HP (6) x level| CP 10 + 10 + (10 x level) |                        
     | :--: | :--:  | :--: |                  
-    |**Máximo**| 31  | 70 | 
-    | **Atual**| 31 | 70 |
+    |**Máximo**| 30  | 70 | 
+    | **Atual**| 30 | 70 |
 
 * ## **Atributos**
     ### **Ramemes**
@@ -50,11 +50,11 @@
     **Ajuda: Fūton: Daitoppa (Estilo do Vento: Grande Destruição)** 
 
 * ## **Especializações (+1 de mod)**
-    #### Persuasão (Carisma ou Genjutsu): 3
+    #### Persuasão (Carisma): 3
 
      Quando você tenta influenciar alguém ou um grupo de pessoas com tato, delicadeza ou boa índole, o Mestre pode pedir para você fazer um teste de Persuasão. Normalmente, você usa a Persuasão quando está agindo de boa fé, para promover amizades, fazer pedidos cordiais    ou exibir a etiqueta apropriada. Exemplos de persuadir os outros incluem convencer um ninja a deixar seu grupo ver o kage, negociar a paz entre duas vilas em conflito ou inspirar uma multidão de pessoas da região. 
 
-* ## **Talentos - 5 PC e 4 PP**
+* ## **Talentos - 12 PC**
      #### **ELEMENTALISTA - 4 PC**
 
     #### **RECUPERAÇÃO CONCETRADA - 3 PC**
@@ -74,6 +74,16 @@
 
 * # **Jutsus**
     * ## **Ninjutsus**
+   ### **Henge no Jutsu (Técnica de Transformação)** </br>
+   **Custo:** 2 de Chakra / Turno </br>
+   **Rank:** D  </br>
+   **Efeito:** Concentração. O jutsu consiste em transformar tanto o ninja quanto um objeto. Dando qualquer outra forma física, como objetos, animais e outras pessoas. Não pode ser usado como defesa. Qualquer doujutsu ou técnica sensorial consegue identificar a transformação. </br>
+   **Dano:** - </br>
+   **Requerimentos:** - </br>
+   **Range:** - </br>
+   **Aprendizado:** C </br>
+   **Custo de Ações:** 2 PA para ativar </br>
+
     ### **Kawarimi no Jutsu (Técnica de Substituição de Corpo)** </br>
     **Custo:** 4 de Chakra </br>
     **Rank:** D </br>
