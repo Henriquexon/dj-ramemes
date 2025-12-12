@@ -3,7 +3,7 @@
 ![Ramemes](djramemes-sexo.png)
 
 * ## **Registro Geral**
-    **Carregamento de Chakra:** 10 de Chakra </br>
+    **Carregamento de Chakra:** +10 de Chakra </br>
     **Deslocamento** 4 Metros (5 + Destreza) </br>
     **Dano do Soco:** 1d4 (Nível 1) </br>
     **PA's:** 3 </br>
@@ -47,7 +47,7 @@
     **Destreza:** Arma Corpo-a-Corpo </br>
     **Genjutsu:** - </br>
     **Contra-ataque:** Fūton: Daitoppa (Estilo do Vento: Grande Destruição)</br>
-    **Ajuda: Fūton: Daitoppa (Estilo do Vento: Grande Destruição)** 
+    **Ajuda:** Fūton: Daitoppa (Estilo do Vento: Grande Destruição)
 
 * ## **Especializações (+1 de mod)**
     #### Persuasão (Carisma): 3
