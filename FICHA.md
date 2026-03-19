@@ -81,6 +81,7 @@
    **Dano:** - </br>
    **Requerimentos:** - </br>
    **Range:** - </br>
+   **Requerimentos:** - </br>
    **Aprendizado:** C </br>
    **Custo de Ações:** 2 PA para ativar </br>
 
@@ -89,6 +90,7 @@
     **Rank:** D </br>
     **Efeito:** *Defesa.* Substitui o corpo do ninja por um toco de madeira ou qualquer outro objeto do cenário. Reaparece numa distância de 1m do local onde estava. </br>
     **Dano:** - </br>
+    **Requerimentos:** - </br>
     **Range:** - </br>
     **Custo de Ações:** Turno de Defesa </br>
 
@@ -97,6 +99,7 @@
     **Rank:** D </br>
     **Efeito:** Habilita o ninja a andar em superfícies inclinadas. Não utiliza selos de mão. </br>
     **Dano:** - </br>
+    **Requerimentos:** - </br>
     **Range:** - </br>
     **Custo de Ações:** - </br>
 
@@ -105,6 +108,7 @@
     **Rank:** D </br>
     **Efeito:** Habilita o ninja a andar em superfícies inclinadas. Não utiliza selos de mão. </br>
     **Dano:** - </br>
+    **Requerimentos:** - </br>
     **Range:** - </br>
     **Custo de Ações:** - </br>
 
@@ -113,6 +117,7 @@
     **Rank:** D </br>
     **Efeito:** O ninja concentra chakra nos pés, se deslocando em linha reta uma distância de 5m + deslocamento. Limite de 1 uso por turno. Não utiliza selos de mão. </br>
     **Dano:** - </br>
+    **Requerimentos:** - </br>
     **Range:** - </br>
     **Custo de Ações:** 1 PA </br>
 
@@ -121,6 +126,7 @@
     **Rank:** D </br>
     **Efeito:** Após um usuário de Genjutsu falhar na rolagem contra sua DN de Inteligência, você utiliza essa técnica para se desfazer de todos Genjutsus que seu adversário mantinha em você. Pode ser utilizado em um aliado que estiver no seu alcance enquanto estiver no seu turno de ataque, nesse caso irá dissipar todos os Genjutsus que ele estiver sob efeito sem nenhum tipo de teste. Não necessita de selos de mão. </br>
     **Dano:** - </br>
+    **Requerimentos:** - </br>
     **Range:** Corpo-a-Corpo </br>
     **Custo de Ações:** 2 PA </br>
 
@@ -131,6 +137,7 @@
     **Rank:** C </br>
     **Efeito:** Cospe uma bola de fogo no seu alvo </br>
     **Dano:** 1d6 + 1d8 </br>
+    **Requerimentos:** Elemento Katon </br>
     **Range:** Médio </br>
     **Custo de Ações:** 2 PA </br>
 
@@ -141,6 +148,7 @@
     **Rank:** C </br>
     **Efeito:** Lança uma rajada de ar pela boca, empurrando seu alvo. </br>
     **Dano:** 5d4 </br>
+    **Requerimentos:** Elemento Fuuton </br>
     **Range:** Médio </br>
     **Custo de Ações:** 2 PA </br>
 
@@ -151,6 +159,7 @@
     **Rank:** C </br>
     **Efeito:** O ninja concentra chakra do elemento Raiton na sua mão e então libera ele na forma de um cachorro, que vai em direção ao seu alvo e o ataca. </br>
     **Dano:** 1d8 + 2d4 </br>
+    **Requerimentos:** Elemento Raiton </br>
     **Range:** Médio </br>
     **Custo de Ações:** 2 PA </br>
 
@@ -159,14 +168,15 @@
     ### **Vibração:** </br>
     **Custo:** 6 de Chakra </br>
     **Rank:** C </br>
-    **Efeito:** Stun da KG e Derruba </br>
+    **Efeito:** Stun da KG </br>
     **Dano:** - </br>
+    **Requerimentos:** Kekkei Genkai Vibração </br>
     **Range:** Médio; Área Pequena </br>
     **Custo de Ações:** 2 PA </br>
 
    
 * # **História**
-Na região de (?) existe uma aldeia movida por dois grupos de seguidores distintos, os seguidores de Febo, e os seguidores de Baco. Cada um com seus próprios ideia, filosofias e culturas, apesar de, muitas vezes, esses elementos se mesclarem.mAmbos os grupos, não violentos, decidiram formar essa aldeia mesmo tendo crenças opostas. Sendo os seguidores de Febo, acreditando que para atingir a iluminação na vida de forma filosófica é necessário o conhecimento, apenas através da arte e da música você conseguirá preencher o seus espirito e alma, de forma completa. Apesar deles terem diversas formas artisticas para se expressarem, o Sol é a principal referência a eles, muito por conta do seu próprio Seus, ser o Deus do Sol.mJá os seguidores de Baco acreditam que para atingir a felicidade plena, é necessário abstrair a dor e estar sempre a procura dos prazeres, não importando o quão mundado ou simples seja. Eles se destacaram na vila principalmente por suas festas e comemorações sempre extravagentes, atraindo muitas vezes a atenção de turistas e outros seguidores de Baco. Durante os anos desse choque de cultura, os seguidores de Baco adotaram a música assim como os seguidores de Febo, para complementarem todos os seus festejos criando também um estilo próprio de música, o Funk.
+Na região de (?) existe uma aldeia movida por dois grupos de seguidores distintos, os seguidores de Febo, e os seguidores de Baco. Cada um com seus próprios ideia, filosofias e culturas, apesar de, muitas vezes, esses elementos se mesclarem. Ambos os grupos, não violentos, decidiram formar essa aldeia mesmo tendo crenças opostas. Sendo os seguidores de Febo, acreditando que para atingir a iluminação na vida de forma filosófica é necessário o conhecimento, apenas através da arte e da música você conseguirá preencher o seus espirito e alma, de forma completa. Apesar deles terem diversas formas artisticas para se expressarem, o Sol é a principal referência a eles, muito por conta do seu próprio Seus, ser o Deus do Sol.mJá os seguidores de Baco acreditam que para atingir a felicidade plena, é necessário abstrair a dor e estar sempre a procura dos prazeres, não importando o quão mundado ou simples seja. Eles se destacaram na vila principalmente por suas festas e comemorações sempre extravagentes, atraindo muitas vezes a atenção de turistas e outros seguidores de Baco. Durante os anos desse choque de cultura, os seguidores de Baco adotaram a música assim como os seguidores de Febo, para complementarem todos os seus festejos criando também um estilo próprio de música, o Funk.
 
 A aldeia foi crescendo com o passar dos séculos, e cada vez mais ambas as culturas se mesclavam por diferentes aspectos, porém sempre mantendo sua própria essência e diferenças. Ramemes nasceu de uma relação entre uma crente de Febo e um crente de Baco. Apesar de não haver grandes richas entre as familias, Ramemes sempre era tentado a "seguir o caminho correto" de uma das duas crenças. Ramemes cresceu apreciando tanto as músicas, poesias e pinturas de Febo, quanto os festivais, bebidas e prazeres de Baco. Mesmo sendo um seguidor de ambos os Deuses, por Ramemes ser mais próximo de sua mãe, ele acabou por ter uma maior inclinação ao Deus Febo.
 
