@@ -22,7 +22,7 @@
    ***
 
 * ## **Vida e Chakra**
-    | Ramemes | HP (6) x level| CP 10 + 10 + (10 x level) |                        
+    | Ramemes | HP (6 x level) | CP 10 + 10 + (10 x level) |                        
     | :--: | :--:  | :--: |                  
     |**Máximo**| 30  | 70 | 
     | **Atual**| 30 | 70 |
