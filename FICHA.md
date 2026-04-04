@@ -28,12 +28,12 @@
 
 * ## **Atributos**
     ### **Ramemes**
-    | NIN | TAI | GEN | INT | DES | CONS | CAR |
+    | NIN | TAI | GEN | INT | DES | CON | CAR |
     | :--: | :--:  | :--:  | :--:  | :--: | :--:  | :--:  | 
     | +3 | -1 | -1 | +1 | -1 | +1 | +2 |
 
 * ## **Defesas Ninja (DN)**
-    | DN | Nin¹ | Nin² | Tai | Int | Cons |  Des | Gen | Contra-Ataque | Ajuda |  
+    | DN | Nin¹ | Nin² | Tai | Int | Con |  Des | Gen | Contra-Ataque | Ajuda |  
     | :--: | :--:  | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |                  
     |**Inicial**| 8 | 8 | 6 |  9 |  10 |  6 |  8 |  4 |  6 |  
     | **Final**| 11 | 11  | 5 |  10 | 11 | 5 |  - |  7  |  9 |
