@@ -18,6 +18,7 @@
     **Ideal:** </br>
     **Vínculo:** </br>
     **Elemento:** Katon; Fuuton; Raiton </br>
+    **Kekkei Genkai:** Shinton </br>
    ***
 
 * ## **Vida e Chakra**
