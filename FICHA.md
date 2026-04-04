@@ -13,7 +13,7 @@
     **Habilidade Inata:** - </br>
     **Classe:** Usuário de Chakra </br>
     **Alinhamento:** Lawful Good </br>
-    **Ryou:** 0 Ryou </br>
+    **Ryou:** 500 Ryou </br>
     **Fraqueza:** </br>
     **Ideal:** </br>
     **Vínculo:** </br>
@@ -46,8 +46,8 @@
     **Constituição:** Absorver Dano </br>
     **Destreza:** Arma Corpo-a-Corpo </br>
     **Genjutsu:** - </br>
-    **Contra-ataque:** Fūton: Daitoppa (Estilo do Vento: Grande Destruição)</br>
-    **Ajuda:** Fūton: Daitoppa (Estilo do Vento: Grande Destruição)
+    **Contra-ataque:** Raiton: Raijū Tsuiga (Estilo Raio: Rastreamento de Presa da Besta Relâmpago)</br>
+    **Ajuda:** Raiton: Raijū Tsuiga (Estilo Raio: Rastreamento de Presa da Besta Relâmpago)
 
 * ## **Especializações (+1 de mod)**
     #### Persuasão (Carisma): 3
@@ -164,34 +164,41 @@
     **Custo de Ações:** 2 PA </br>
 
     
-    * ## **Vibração**
-    ### **Vibração:** </br>
-    **Custo:** 6 de Chakra </br>
+    * ## **Shinton**
+    ### **Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)** </br>
+    **Custo:** 12 de Chakra </br>
     **Rank:** C </br>
-    **Efeito:** Stun da KG </br>
-    **Dano:** - </br>
-    **Requerimentos:** Kekkei Genkai Vibração </br>
+    **Efeito:** O ninja concentra chakra em ambas as mãos, e descarrega uma onda sonora em direção ao alvo, causando dano e atordoando a todos que estão na volta. </br>
+    **Dano:** 1d10 + 2d4 </br>
+    **Requerimentos:** Kekkei Genkai Shinton </br>
     **Range:** Médio; Área Pequena </br>
     **Custo de Ações:** 2 PA </br>
 
    
 * # **História**
-Na região de (?) existe uma aldeia movida por dois grupos de seguidores distintos, os seguidores de Febo, e os seguidores de Baco. Cada um com seus próprios ideia, filosofias e culturas, apesar de, muitas vezes, esses elementos se mesclarem. Ambos os grupos, não violentos, decidiram formar essa aldeia mesmo tendo crenças opostas. Sendo os seguidores de Febo, acreditando que para atingir a iluminação na vida de forma filosófica é necessário o conhecimento, apenas através da arte e da música você conseguirá preencher o seus espirito e alma, de forma completa. Apesar deles terem diversas formas artisticas para se expressarem, o Sol é a principal referência a eles, muito por conta do seu próprio Seus, ser o Deus do Sol.mJá os seguidores de Baco acreditam que para atingir a felicidade plena, é necessário abstrair a dor e estar sempre a procura dos prazeres, não importando o quão mundado ou simples seja. Eles se destacaram na vila principalmente por suas festas e comemorações sempre extravagentes, atraindo muitas vezes a atenção de turistas e outros seguidores de Baco. Durante os anos desse choque de cultura, os seguidores de Baco adotaram a música assim como os seguidores de Febo, para complementarem todos os seus festejos criando também um estilo próprio de música, o Funk.
-
-A aldeia foi crescendo com o passar dos séculos, e cada vez mais ambas as culturas se mesclavam por diferentes aspectos, porém sempre mantendo sua própria essência e diferenças. Ramemes nasceu de uma relação entre uma crente de Febo e um crente de Baco. Apesar de não haver grandes richas entre as familias, Ramemes sempre era tentado a "seguir o caminho correto" de uma das duas crenças. Ramemes cresceu apreciando tanto as músicas, poesias e pinturas de Febo, quanto os festivais, bebidas e prazeres de Baco. Mesmo sendo um seguidor de ambos os Deuses, por Ramemes ser mais próximo de sua mãe, ele acabou por ter uma maior inclinação ao Deus Febo.
-
-Quando ainda criança Ramemes conheceu Helena, uma jovem seguidora de Baco apaixonada por festas. Eles então cresceram juntos, se tornando cada vez mais próximos.
-
-[...]
-
-Ramemes foi se apaixonando por Helena por o passar dos anos. Desde então escreve musicas para ela.
-
-[...]
-
-Ramemes viu Helena sendo "sequestrada", e ao tentar falar para os outros da vila, ninguem acreditou nele e os expulsaram da vila.
-
-[...]
-
-Ramemes foi chamado para realizar uma apresentação na sauna Guaíba.
-Ramemes quer entrar na tavola redonda, se tornar influente o suficiente para achar Helena.
-
+Na fronteira entre os continentes de Troia e Camelot, reside uma aldeia movida por dois grupos de seguidores distintos
+Seguidores do deus Febo e do deus Baco, cada um com seus próprios ideais, filosofias e culturas, apesar dessas culturas em certos momentos se mesclarem
+Ambos os grupos nao violentos decidiram formar essa aldeia mesmo com crenças opostas, com o objetivo de formar uma civilização estável e confortavel para seus filhos
+Os seguidores de Febo acreditam que para atingir a iluminação na vida de forma filosófica é necessário o conhecimento, apenas através da arte e da música você conseguirá preencher o seu espírito e alma, de forma completa
+Mesmo eles tendo diersas formas artisticas para se expressar, o Sol é a característica mais marcante e principal deles, muito por conta de seu próprio deus ser o deus do sol
+Os seguidores de Baco acreditam que para atingir a felicidade plena, é necessário abstrair a dor e estar sempre a procura de novos prazeres, não importando o quão mundano ou simples seja
+Eles são muito conhecidos principalmente pelas suas festas e comemorações sempre extravagantes, atraindo muitas vezes a atenção de turistas e seguidores de baco de fora da vila
+Com o passar dos anos, esse choque de cultura entre as duas crenças, resultou na crianção de um novo estilo musical, tantos os seguidores de Baco quanto de Febo adotaram a crianção do Funk, uma obra crianda da união entre os dois povos
+A aldeia cada vez mais se expandia e mesclava sua cultura com o passar dos séculos em diferentes aspectos, porém cada crença sempre mantia sua própria essencia e diferença, principalmente seus ideais
+Ramemes nasceu de uma relação entre uma seguidora de Febo e um seguidor de Baco
+Mesmo não havendo richas entre as familias, Ramemes sempre era tentado a "seguir o caminho correto" de uma das duas crenças
+Ramemes cresceu apreciando tanto as musicas, poesias e pinturas de Febo, quanto os festivais, bebidas e prazeres de Baco
+Mesmo sendo um seguidores de ambos os deuses, por Ramemes ser mais próximo de sua mãe, ele acabou tendo uma maior inclinação ao Deus Febo
+Ramemes sempre foi um garoto extrovertido com diversos amigos, porém ele tinha uma melhor amiga, Helena
+Helena é uma seguidora de Baco apaixonada por festas, que vem de uma das familias mais tradicionais de Baco
+Com o passar dos anos, Ramemes e Helena ficavam cada vez mais próximos, sendo ela quem apresentava muitas das ideias "ideias modernas de Baco", invés das ideias tradicionais de Baco que seu pai ensinava
+Após anos de amizade, Ramemes percebeu que estava apaixonado por Helena, porém nunca revelou a mesma seus sentimentos por medo de sua resposta
+Helena quando mais velha, se tornou a mulher mais desejada de toda a região, todos queriam ela, e todos que se relacionavam com ela se apaixonavam por ela, porém a mesma nunca teve relacionamento com qualquer um que fosse
+Com medo de ser negligenciado e tivesse seu laço de amizade com Helena quebrado, Ramemes guardou esse sentimento dentro dele, e para impedir que isso machucasse-o mais, começou a expor ele em forma de musica, algumas vezes de forma anonima utilizando o nome dela, outras vezes como musica própria sua, porém sem utilziar um nome especifico
+Foi então, que em um dia de festejo, Helena escolheu um homem para ir se deitar, porém após algumas horas havia passado e Ramemes começou a achar estranho a demora, foi então que ele foi atrás de Helena
+Ao entrar no quarto, Ramemes se depara com dois homens, um deles sendo o Shikamaru e outro o Hidan (Ramemes não conhece ambos)
+Ambos raptam Helena, e entram por um buraco que se abre ao chao do quarto, enquanto dão uma leve risada de Ramemes que tenta inutilmente ir atrás deles, pois quando ramemes se aproxima do buraco que eles entraram, o buraco se fecha
+Ramemes tenta pedir ajuda e explicar a história para a sua aldeia, porém ninguem acredita nele
+Por Ramemes ser a pessoa mais próxima de Helena, e por todos terem visto ele entrar no quarto dela e ela desaparecer, ele acreditam que ramames é o culpado pelo sumiço dela
+Ramemes sai de sua vila em busca de sua amada, e se torna um nomade vagando atrás de alguma pista
+Até o dia que Ramemes descobre sobre os guerreiro da tavola redonda que iriam se formar, e decide se juntar a eles com o objetivo de se tornar mais influente e descobrir mais sobre Helena
