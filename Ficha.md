@@ -190,15 +190,17 @@ Mesmo não havendo richas entre as familias, Ramemes sempre era tentado a "segui
 Ramemes cresceu apreciando tanto as musicas, poesias e pinturas de Febo, quanto os festivais, bebidas e prazeres de Baco
 Mesmo sendo um seguidores de ambos os deuses, por Ramemes ser mais próximo de sua mãe, ele acabou tendo uma maior inclinação ao Deus Febo
 Ramemes sempre foi um garoto extrovertido com diversos amigos, porém ele tinha uma melhor amiga, Helena
-Helena é uma seguidora de Baco apaixonada por festas, que vem de uma das familias mais tradicionais de Baco
+Helena é filha da maior cafetina da vila, sua mae foi a fundadora do primeiro bordel da cidade, que se localizava na região central dos seguidores de baco
 Com o passar dos anos, Ramemes e Helena ficavam cada vez mais próximos, sendo ela quem apresentava muitas das ideias "ideias modernas de Baco", invés das ideias tradicionais de Baco que seu pai ensinava
 Após anos de amizade, Ramemes percebeu que estava apaixonado por Helena, porém nunca revelou a mesma seus sentimentos por medo de sua resposta
 Helena quando mais velha, se tornou a mulher mais desejada de toda a região, todos queriam ela, e todos que se relacionavam com ela se apaixonavam por ela, porém a mesma nunca teve relacionamento com qualquer um que fosse
 Com medo de ser negligenciado e tivesse seu laço de amizade com Helena quebrado, Ramemes guardou esse sentimento dentro dele, e para impedir que isso machucasse-o mais, começou a expor ele em forma de musica, algumas vezes de forma anonima utilizando o nome dela, outras vezes como musica própria sua, porém sem utilziar um nome especifico
-Foi então, que em um dia de festejo, Helena escolheu um homem para ir se deitar, porém após algumas horas havia passado e Ramemes começou a achar estranho a demora, foi então que ele foi atrás de Helena
+Foi então, que em mais um dia de festejos, Helena estranhamente saiu mais cedo para ir dormir, achando estranho Ramemes foi atrás dela para ver se estava tudo bem
 Ao entrar no quarto, Ramemes se depara com dois homens, um deles sendo o Shikamaru e outro o Hidan (Ramemes não conhece ambos)
-Ambos raptam Helena, e entram por um buraco que se abre ao chao do quarto, enquanto dão uma leve risada de Ramemes que tenta inutilmente ir atrás deles, pois quando ramemes se aproxima do buraco que eles entraram, o buraco se fecha
+Ambos raptam Helena, e um buraco se abre ao chão, porem antes de abrir o buraco o simbolo de Jashin se forma, e enquanto dão uma leve risada de Ramemes que tenta inutilmente ir atrás deles, eles pulam para dentro do buraco, e ao se aproximar do buraco que eles entraram, o buraco se fecha
+O próprio simbolo de Jashin fica marcado no assoalho do quarto, na madeira, como se estivesse queimado
 Ramemes tenta pedir ajuda e explicar a história para a sua aldeia, porém ninguem acredita nele
-Por Ramemes ser a pessoa mais próxima de Helena, e por todos terem visto ele entrar no quarto dela e ela desaparecer, ele acreditam que ramames é o culpado pelo sumiço dela
+Por Ramemes ser a pessoa mais próxima de Helena, e por todos terem visto ele entrar no quarto dela e ela desaparecer, assim como o símbolo de Jashin inscrito no chão, os cidadãos da vila acreditam que Ramemes fez algum ritual com Helena
 Ramemes sai de sua vila em busca de sua amada, e se torna um nomade vagando atrás de alguma pista
-Até o dia que Ramemes descobre sobre os guerreiro da tavola redonda que iriam se formar, e decide se juntar a eles com o objetivo de se tornar mais influente e descobrir mais sobre Helena
+Para conseguir continuar seus shows e eventos sem problemas de ser procurado ou perseguido, ele inventou seu codenome "Ramon Sucesso"
+Até um dia, Ramemes descobre sobre os guerreiro da tavola redonda que iriam se formar, e decide se juntar a eles com o objetivo de se tornar mais influente e descobrir mais sobre Helena
