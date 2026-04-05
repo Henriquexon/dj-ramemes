@@ -8,7 +8,7 @@
     **Dano do Soco:** 1d4 (Nível 1) </br>
     **PA's:** 3 </br>
     **Idade:** 26 anos </br>
-    **Nível:** 05 </br>
+    **Nível:** 06 </br>
     **Clã:** Sarutobi (8 Pontos) </br>
     **Habilidade Inata:** - </br>
     **Classe:** Usuário de Chakra </br>
@@ -24,8 +24,8 @@
 * ## **Vida e Chakra**
     | Ramemes | HP (6 x level) | CP 10 + 10 + (10 x level) |                        
     | :--: | :--:  | :--: |                  
-    |**Máximo**| 30  | 70 | 
-    | **Atual**| 30 | 70 |
+    |**Máximo**| 36  | 80 | 
+    | **Atual**| 36 | 80 |
 
 * ## **Atributos**
     ### **Ramemes**
@@ -71,7 +71,12 @@
    ***
   
 * ## **Itens (3,5/3,5 Kg)**
-</br>
+  **9x Kunai de 3 pontas:** Kunai de três pontas. Ao se juntarem, formam uma bússola. </br>
+
+* ### **Treinos**
+* ## **Treino de Level 6 (Treino Médio; 1 de Inteligência) (67 Pontos)**
+  Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)")
+  Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)") 
 
 * # **Jutsus**
     * ## **Ninjutsus**
