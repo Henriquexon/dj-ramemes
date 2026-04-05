@@ -13,7 +13,7 @@
     **Habilidade Inata:** - </br>
     **Classe:** Usuário de Chakra </br>
     **Alinhamento:** Lawful Good </br>
-    **Ryou:** 500 Ryou </br>
+    **Ryou:** 645 Ryou </br>
     **Fraqueza:** </br>
     **Ideal:** </br>
     **Vínculo:** </br>
@@ -55,13 +55,13 @@
      Quando você tenta influenciar alguém ou um grupo de pessoas com tato, delicadeza ou boa índole, o Mestre pode pedir para você fazer um teste de Persuasão. Normalmente, você usa a Persuasão quando está agindo de boa fé, para promover amizades, fazer pedidos cordiais    ou exibir a etiqueta apropriada. Exemplos de persuadir os outros incluem convencer um ninja a deixar seu grupo ver o kage, negociar a paz entre duas vilas em conflito ou inspirar uma multidão de pessoas da região. 
 
 * ## **Talentos - 12 PC**
-     #### **ELEMENTALISTA - 4 PC**
+  * #### **ELEMENTALISTA - 4 PC**
 
-    #### **RECUPERAÇÃO CONCETRADA - 3 PC**
+  * #### **RECUPERAÇÃO CONCETRADA - 3 PC**
 
-    #### **UM PASSO A FRENTE - 3 PC**
+  * #### **UM PASSO A FRENTE - 3 PC**
 
-    #### **CHAKRA ELEVADO - 2/2 PC**
+  * #### **CHAKRA ELEVADO - 2/2 PC**
 
 * ## **Perícias**
   #### **Perícia em Ninjutsu (1)**
@@ -70,12 +70,15 @@
    ***
   
 * ## **Itens (3,5/3,5 Kg)**
-  **9x Kunai de 3 pontas:** Kunai de três pontas. Ao se juntarem, formam uma bússola. </br>
+  * **9x Kunai de 3 pontas:** Kunai de três pontas. Ao se juntarem, formam uma bússola. </br>
 
 * ## **Treinos**
 * ### **Treino de Level 6 (Treino Médio; 1 de Inteligência) (67 Pontos)**
   * Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)")
-  * Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)") 
+  * Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)")
+  * Aprender rank D (3 PT) (Aprender "Funyu/Kaifu no Jutsu (Técnica de Anexamento/Deslacramento)")
+  * Aprender rank D (3 PT) (Aprender "Oboro Bunshin no Jutsu (Técnica do Clone de Neblina)")
+  * Horas complementares (1 PT) (+15 Ryõ)
 
 * # **Jutsus**
     * ## **Ninjutsus**
