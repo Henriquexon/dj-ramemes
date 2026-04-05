@@ -16,7 +16,6 @@
     **Ryou:** 645 Ryou </br>
     **Elemento:** Katon; Fuuton; Raiton </br>
     **Kekkei Genkai:** Shinton </br>
-   ***
 
 * ## **Vida e Chakra**
     | Ramemes | HP (6 x level) | CP 10 + 10 + (10 x level) |                        
@@ -61,7 +60,7 @@
   * #### **CHAKRA ELEVADO - (2/2 PC)**
 
 * ## **Perícias**
-  #### **Perícia em Ninjutsu (1)**
+  #### **Perícia em Ninjutsu (1x)**
   **Garante:** Ou um acréscimo de 10 pontos no chakra total ou conseguir mais um elemento. Nos dois casos o ninja ganha +5 pontos na regeneração de chakra. </br>
   **Se obtida uma vez:** Seu número máximo de opções na DN de Ninjutsu se torna 2. </br>
   
