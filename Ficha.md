@@ -64,7 +64,6 @@
   #### **Perícia em Ninjutsu (1)**
   **Garante:** Ou um acréscimo de 10 pontos no chakra total ou conseguir mais um elemento. Nos dois casos o ninja ganha +5 pontos na regeneração de chakra. </br>
   **Se obtida uma vez:** Seu número máximo de opções na DN de Ninjutsu se torna 2. </br>
-   ***
   
 * ## **Itens (3,5/3,5 Kg)**
   * **9x Kunai de 3 pontas:** Kunai de três pontas. Ao se juntarem, formam uma bússola. </br>
