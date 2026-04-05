@@ -191,9 +191,9 @@
     * ## **Shinton**
     ### **Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)** </br>
     **Custo:** 12 de Chakra </br>
-    **Rank:** C </br>
+    **Rank:** C (4/6) </br>
     **Efeito:** O ninja concentra chakra em ambas as mãos, e descarrega uma onda sonora em direção ao alvo, causando dano e atordoando a todos que estão na volta. </br>
-    **Dano:** 1d10 + 2d4 </br>
+    **Dano:** 4d6 </br>
     **Requerimentos:** Kekkei Genkai Shinton </br>
     **Range:** Médio; Área Pequena </br>
     **Custo de Ações:** 2 PA </br>
