@@ -14,9 +14,6 @@
     **Classe:** Usuário de Chakra </br>
     **Alinhamento:** Lawful Good </br>
     **Ryou:** 645 Ryou </br>
-    **Fraqueza:** </br>
-    **Ideal:** </br>
-    **Vínculo:** </br>
     **Elemento:** Katon; Fuuton; Raiton </br>
     **Kekkei Genkai:** Shinton </br>
    ***
@@ -54,7 +51,7 @@
     #### Persuasão (Carisma): 3
      Quando você tenta influenciar alguém ou um grupo de pessoas com tato, delicadeza ou boa índole, o Mestre pode pedir para você fazer um teste de Persuasão. Normalmente, você usa a Persuasão quando está agindo de boa fé, para promover amizades, fazer pedidos cordiais    ou exibir a etiqueta apropriada. Exemplos de persuadir os outros incluem convencer um ninja a deixar seu grupo ver o kage, negociar a paz entre duas vilas em conflito ou inspirar uma multidão de pessoas da região. 
 
-* ## **Talentos - 12 PC**
+* ## **Talentos (12 PC)**
   * #### **ELEMENTALISTA - 4 PC**
 
   * #### **RECUPERAÇÃO CONCETRADA - 3 PC**
@@ -137,6 +134,26 @@
     **Requerimentos:** - </br>
     **Range:** Corpo-a-Corpo </br>
     **Custo de Ações:** 2 PA </br>
+
+   ### **Oboro Bunshin no Jutsu (Técnica do Clone de Neblina)** </br>
+   **Custo:** 4 de Chakra </br>
+   **Rank:** D </br>
+   **Efeito:** Concentração. O ninja cria 2 clones ilusórios que não se desfazem ao serem atacados, porém são intangíveis. Não pode ser reutilizada enquanto tiverem clones remanescentes. </br>
+   **Dano:** - </br>
+   **Requerimentos:** - </br>
+   **Range:** Médio </br>
+   **Aprendizado:** C </br>
+   **Custo de Ações:** 2 PA </br>
+
+   ### **Funyu/Kaifu no Jutsu (Técnica de Anexamento/Deslacramento)** </br>
+   **Custo:** 1 de Chakra para cada 250g </br>
+   **Rank:** D </br>
+   **Efeito:** Sela ou retira um objeto em um pergaminho. </br>
+   **Dano:** - </br>
+   **Requerimentos:** - </br>
+   **Range:** - </br>
+   **Aprendizado:** C </br>
+   **Custo de Ações:** 2 PA </br>
 
 
     * ## **Katon**
