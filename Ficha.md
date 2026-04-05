@@ -35,6 +35,11 @@
     |**Inicial**| 8 | 8 | 6 |  9 |  10 |  6 |  8 |  4 |  6 |  
     | **Final**| 11 | 11  | 5 |  10 | 11 | 5 |  - |  7  |  9 |
 
+    | DN | Nin¹ | Nin² | Tai | Gen | Int | Des | Con | Contra-Ataque | Ajuda |  
+    | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |                  
+    |**Inicial**| 8 | 8 | 6 | 8 | 9 | 6 | 10 | 4 | 6 |  
+    | **Final**| 11 | 11 | 5 | - | 10 | 5 | 11 | 7 | 9 |
+  
     #### **Técnicas Usadas**
     **Ninjutsu¹:** Kawarimi no Jutsu (Técnica de Substituição de Corpo) </br>
     **Ninjutsu²:** </br>
