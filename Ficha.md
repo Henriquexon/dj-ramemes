@@ -4,7 +4,7 @@
 
 * ## **Registro Geral**
     **Carregamento de Chakra:** +10 de Chakra </br>
-    **Deslocamento** 4 Metros (5 + Destreza) </br>
+    **Deslocamento:** 4 Metros (5 + Destreza) </br>
     **Dano do Soco:** 1d4 (Nível 1) </br>
     **PA's:** 3 </br>
     **Idade:** 26 anos </br>
@@ -24,7 +24,6 @@
     | **Atual**| 36 | 80 |
 
 * ## **Atributos**
-    ### **Ramemes**
     | NIN | TAI | GEN | INT | DES | CON | CAR |
     | :--: | :--:  | :--:  | :--:  | :--: | :--:  | :--:  | 
     | +3 | -1 | -1 | +1 | -1 | +1 | +2 |
@@ -35,7 +34,7 @@
     |**Inicial**| 8 | 8 | 6 | 8 | 9 | 6 | 10 | 4 | 6 |  
     | **Final**| 11 | 11 | 5 | - | 10 | 5 | 11 | 7 | 9 |
   
-    #### **Técnicas de DN**
+    #### **Técnicas de DN's**
     **Ninjutsu¹:** Kawarimi no Jutsu (Técnica de Substituição de Corpo) </br>
     **Ninjutsu²:** - </br>
     **Taijutsu:** Desvio </br>
@@ -72,8 +71,8 @@
   ### **Treino de Level 6 (Treino Médio; 1 de Inteligência) (67 Pontos)**
   * Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)")
   * Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)")
-  * Aprender rank D (3 PT) (Aprender "Funyu/Kaifu no Jutsu (Técnica de Anexamento/Deslacramento)")
   * Aprender rank D (3 PT) (Aprender "Oboro Bunshin no Jutsu (Técnica do Clone de Neblina)")
+  * Aprender rank D (3 PT) (Aprender "Funyu/Kaifu no Jutsu (Técnica de Anexamento/Deslacramento)")
   * Horas complementares (1 PT) (+15 Ryõ)
 
 * # **Jutsus**
