@@ -69,7 +69,7 @@
   * **CDJ (500 g):** Toca músicas. </br>
 
 * ## **Treinos**
-* ### **Treino de Level 6 (Treino Médio; 1 de Inteligência) (67 Pontos)**
+  ### **Treino de Level 6 (Treino Médio; 1 de Inteligência) (67 Pontos)**
   * Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)")
   * Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)")
   * Aprender rank D (3 PT) (Aprender "Funyu/Kaifu no Jutsu (Técnica de Anexamento/Deslacramento)")
