@@ -52,7 +52,6 @@
 
 * ## **Especializações (+1 de mod)**
     #### Persuasão (Carisma): 3
-
      Quando você tenta influenciar alguém ou um grupo de pessoas com tato, delicadeza ou boa índole, o Mestre pode pedir para você fazer um teste de Persuasão. Normalmente, você usa a Persuasão quando está agindo de boa fé, para promover amizades, fazer pedidos cordiais    ou exibir a etiqueta apropriada. Exemplos de persuadir os outros incluem convencer um ninja a deixar seu grupo ver o kage, negociar a paz entre duas vilas em conflito ou inspirar uma multidão de pessoas da região. 
 
 * ## **Talentos - 12 PC**
@@ -73,10 +72,10 @@
 * ## **Itens (3,5/3,5 Kg)**
   **9x Kunai de 3 pontas:** Kunai de três pontas. Ao se juntarem, formam uma bússola. </br>
 
-* ### **Treinos**
-* ## **Treino de Level 6 (Treino Médio; 1 de Inteligência) (67 Pontos)**
-  Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)")
-  Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)") 
+* ## **Treinos**
+* ### **Treino de Level 6 (Treino Médio; 1 de Inteligência) (67 Pontos)**
+  * Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)")
+  * Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)") 
 
 * # **Jutsus**
     * ## **Ninjutsus**
