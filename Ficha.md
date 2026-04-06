@@ -58,14 +58,22 @@
 
   * #### **CHAKRA ELEVADO - (2/2 PC)**
 
-* ## **Perícias**
-  #### **Perícia em Ninjutsu (1x)**
-  **Garante:** Ou um acréscimo de 10 pontos no chakra total ou conseguir mais um elemento. Nos dois casos o ninja ganha +5 pontos na regeneração de chakra. </br>
-  **Se obtida uma vez:** Seu número máximo de opções na DN de Ninjutsu se torna 2. </br>
-  
 * ## **Itens (750 g/3,5 kg)**
   * **9x Kunai de 3 pontas (2.250 g):** Kunai de três pontas. Ao se juntarem, formam uma bússola. </br>
   * **CDJ (500 g):** Toca músicas. </br>
+
+* ## **Perícia**
+  #### **Perícia em Ninjutsu (1x)** </br>
+  **Garante:** Ou um acréscimo de 10 pontos no chakra total ou conseguir mais um elemento. Nos dois casos o ninja ganha +5 pontos na regeneração de chakra. </br>
+  **Se obtida uma vez:** Seu número máximo de opções na DN de Ninjutsu se torna 2. </br>
+
+* ## **Talentos de Perícia**
+
+* ## **Upgrade de Clã**
+   * **Rank C:** Kekkei Genkai SHinton (Fuuton + Raiton: Soma dos modificadores de Fuuton e Raiton)
+   * **Rank B:** -
+   * **Rank A:** -
+   * **Rank S:** -
 
 * ## **Treinos**
   ### **Treino de Level 6 (Treino Médio; 1 de Inteligência) (67 Pontos)**
