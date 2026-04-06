@@ -19,9 +19,9 @@
 
 * ## **Vida e Chakra**
     | Ramemes | HP (6 x level) | CP 10 + 10 + (10 x level) |                        
-    | :--: | :--:  | :--: |                  
-    |**Máximo**| 36  | 80 | 
+    | :--: | :--:  | :--: |
     | **Atual**| 36 | 80 |
+    |**Máximo**| 36  | 80 |
 
 * ## **Atributos**
     | NIN | TAI | GEN | INT | DES | CON | CAR |
@@ -47,7 +47,7 @@
 
 * ## **Especializações (+1 de mod)**
     #### Persuasão (Carisma): 3
-     Quando você tenta influenciar alguém ou um grupo de pessoas com tato, delicadeza ou boa índole, o Mestre pode pedir para você fazer um teste de Persuasão. Normalmente, você usa a Persuasão quando está agindo de boa fé, para promover amizades, fazer pedidos cordiais    ou exibir a etiqueta apropriada. Exemplos de persuadir os outros incluem convencer um ninja a deixar seu grupo ver o kage, negociar a paz entre duas vilas em conflito ou inspirar uma multidão de pessoas da região. 
+     Quando você tenta influenciar alguém ou um grupo de pessoas com tato, delicadeza ou boa índole, o Mestre pode pedir para você fazer um teste de Persuasão. Normalmente, você usa a Persuasão quando está agindo de boa fé, para promover amizades, fazer pedidos cordiais ou exibir a etiqueta apropriada. Exemplos de persuadir os outros incluem convencer um ninja a deixar seu grupo ver o kage, negociar a paz entre duas vilas em conflito ou inspirar uma multidão de pessoas da região. 
 
 * ## **Talentos - (12 PC)**
   * #### **ELEMENTALISTA - (4 PC)**
@@ -86,8 +86,8 @@
 * # **Jutsus**
     * ## **Ninjutsus**
    ### **Henge no Jutsu (Técnica de Transformação)** </br>
-   **Custo:** 2 de Chakra / Turno </br>
-   **Rank:** D  </br>
+   **Custo:** 2 de Chakra por Turno </br>
+   **Rank:** D </br>
    **Efeito:** Concentração. O jutsu consiste em transformar tanto o ninja quanto um objeto. Dando qualquer outra forma física, como objetos, animais e outras pessoas. Não pode ser usado como defesa. Qualquer doujutsu ou técnica sensorial consegue identificar a transformação. </br>
    **Dano:** - </br>
    **Requerimentos:** - </br>
