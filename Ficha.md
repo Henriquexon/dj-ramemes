@@ -1,4 +1,4 @@
-# **DJ Ramemes**
+# **Ramemes**
 
 ![Ramemes](djramemes-sexo.png)
 
@@ -70,7 +70,7 @@
 * ## **Talentos de Perícia**
 
 * ## **Upgrade de Clã**
-   * **Rank C:** Kekkei Genkai SHinton (Fuuton + Raiton: Soma dos modificadores de Fuuton e Raiton)
+   * **Rank C:** Kekkei Genkai Shinton (Fuuton + Raiton: Soma dos modificadores de Fuuton e Raiton)
    * **Rank B:** -
    * **Rank A:** -
    * **Rank S:** -
