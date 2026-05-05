@@ -13,7 +13,7 @@
     **Habilidade Inata:** - </br>
     **Classe:** Usuário de Chakra </br>
     **Alinhamento:** Lawful Good </br>
-    **Ryou:** 645 Ryou </br>
+    **Ryou:** 660 Ryou </br>
     **Elemento:** Katon; Fuuton; Raiton </br>
     **Kekkei Genkai:** Shinton </br>
 
@@ -215,7 +215,7 @@
     **Custo:** 10 de Chakra </br>
     **Rank:** C (2/6) </br>
     **Efeito:** Lança uma rajada de ar pela boca, empurrando seu alvo. </br>
-    **Dano:** 2d6+3d4 </br>
+    **Dano:** 2d6 + 3d4 </br>
     **Requerimentos:** Elemento Fuuton </br>
     **Range:** Médio </br>
     **Aprendizado:** C </br>
