@@ -8,7 +8,7 @@
     **Dano do Soco:** 1d4 (Nível 1) </br>
     **PA's:** 3 </br>
     **Idade:** 26 anos </br>
-    **Nível:** 06 </br>
+    **Nível:** 07 </br>
     **Clã:** Sarutobi (8 Pontos) </br>
     **Habilidade Inata:** - </br>
     **Classe:** Usuário de Chakra </br>
@@ -20,8 +20,8 @@
 * ## **Vida e Chakra**
     | Ramemes | HP (6 x level) | CP 10 + 10 + (10 x level) |                        
     | :--: | :--:  | :--: |
-    | **Atual**| 36 | 80 |
-    |**Máximo**| 36  | 80 |
+    | **Atual**| 42 | 90 |
+    |**Máximo**| 42  | 90 |
 
 * ## **Atributos**
     | NIN | TAI | GEN | INT | DES | CON | CAR |
@@ -76,11 +76,18 @@
    * **Rank S:** -
 
 * ## **Treinos**
-  ### **Treino de Level 6 (Treino Médio; 1 de Inteligência) (67 Pontos)**
+  ### **Treino de Level 6 (Treino Médio; 1 de Inteligência; Rank C) (67 Pontos)**
   * Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)")
   * Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)")
   * Aprender rank D (3 PT) (Aprender "Oboro Bunshin no Jutsu (Técnica do Clone de Neblina)")
   * Aprender rank D (3 PT) (Aprender "Funyu/Kaifu no Jutsu (Técnica de Anexamento/Deslacramento)")
+  * Horas complementares (1 PT) (+15 Ryõ)
+
+  ### **Treino Level 7 (Treino Médio; 1 de Inteligência; Rank C) (67 Pontos)**
+  * Ir atrás de Sensei (20) (Qiron)
+  * Aprender Fuuton rank B (22) ("Fūton: Shinkuugyoku (Estilo do Vento: Esfera de Vácuo)")
+  * Aprimorar Ninjutsu Elemental rank C (12) (Aumentar o range "Katon: Housenka no Jutsu (Estilo do Fogo: Técnica das Flores de Fogo)")
+  * Aprimorar Ninjutsu Elemental rank C (12) (Diminuir o chakra "Katon: Housenka no Jutsu (Estilo do Fogo: Técnica das Flores de Fogo)")
   * Horas complementares (1 PT) (+15 Ryõ)
 
 * # **Jutsus**
@@ -161,15 +168,45 @@
    **Aprendizado:** C </br>
    **Custo de Ações:** 2 PA </br>
 
+   ### **Isshi Tōjin (Formação das Cordas de Luz)** </br>
+   **Custo:** 8 de Chakra </br>
+   **Rank:** C </br>
+   **Efeito:** Concentração. O ninja forma um selo circular que enraíza os ninjas dentro dele. O usuário não pode utilizar outras técnicas nem se deslocar durante esse jutsu, pois precisa manter o selo de mão para não cancelar a técnica. </br>
+   **Dano:** - </br>
+   **Requerimentos:** - </br>
+   **Range:** Área Pequena </br>
+   **Aprendizado:** C </br>
+   **Custo de Ações:** 1 PA </br>
+
 
     * ## **Katon**
     ### **Katon: Endan (Estilo do Fogo: Bola de Fogo)** </br>
     **Custo:** 10 de Chakra </br>
     **Rank:** C </br>
     **Efeito:** Cospe uma bola de fogo no seu alvo </br>
-    **Dano:** 1d6 + 1d8 </br>
+    **Dano:** 1d8 + 1d6 </br>
     **Requerimentos:** Elemento Katon </br>
     **Range:** Médio </br>
+    **Custo de Ações:** 2 PA </br>
+
+    ### **Katon: Housenka no Jutsu (Estilo do Fogo: Técnica das Flores de Fogo)** </br>
+    **Custo:** 10 de Chakra </br>
+    **Rank:** C (5/6) </br>
+    **Efeito:** Libera até 4 pequenas bolas de fogo pela boca. </br>
+    **Dano:** 1d4 por Bola de Fogo </br>
+    **Requerimentos:** Elemento Katon </br>
+    **Range:** Médio </br>
+    **Aprendizado:** C </br>
+    **Custo de Ações:** 2 PA </br>
+
+    ### **Katon: Ryūka no Jutsu (Estilo do Fogo: Jutsu da Chama do Dragão)** </br>
+    **Custo:** 14 de Chakra </br>
+    **Rank:** C </br>
+    **Efeito:** O ninja libera uma certa quantidade de fogo pela sua boca, caso esteja proximo de um condutor pode causar dano em todos que estiverem em contato com esse objeto também. A ligação pode ser um fio de aço ou até mesmo uma corrente humana, desde que esteja totalmente unido sem interrupções irá atingir todos. </br>
+    **Dano:** 5d4 </br>
+    **Requerimentos:** Elemento Katon </br>
+    **Range:** Corpo-a-Corpo </br>
+    **Aprendizado:** C </br>
     **Custo de Ações:** 2 PA </br>
 
 
@@ -181,9 +218,20 @@
     **Dano:** 5d4 </br>
     **Requerimentos:** Elemento Fuuton </br>
     **Range:** Médio </br>
+    **Aprendizado: C </br>
     **Custo de Ações:** 2 PA </br>
 
-    
+    ### **Fūton: Shinkuugyoku (Estilo do Vento: Esfera de Vácuo)** </br>
+    **Custo:** 24 de Chakra </br>
+    **Rank:** B </br>
+    **Efeito:** Cospe 6 projéteis perfurantes de Fūton. </br>
+    **Dano:** 1d8 por projétil </br>
+    **Requerimentos:** Elemento Fūton </br>
+    **Range:** Médio </br>
+    **Aprendizado:** C </br>
+    **Custo de Ações:** 2 PA </br>
+
+
     * ## **Raiton**
     ### **Raiton: Raijū Tsuiga (Estilo Raio: Rastreamento de Presa da Besta Relâmpago)** </br>
     **Custo:** 10 de Chakra </br>
