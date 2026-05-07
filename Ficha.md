@@ -87,7 +87,7 @@
   * Ir atrás de Sensei (20) (Quiron)
   * Aprender Fuuton rank B (22) ("Fūton: Shinkuugyoku (Estilo do Vento: Esfera de Vácuo)")
   * Aprimorar Ninjutsu Elemental rank C (12) (Aumentar o range "Katon: Housenka no Jutsu (Estilo do Fogo: Técnica das Flores de Fogo)")
-  * Aprimorar Ninjutsu Elemental rank C (12) (Aumentar o dano "Fūton: Daitoppa (Estilo do Vento: Grande Destruição)")
+  * Aprimorar Ninjutsu Elemental rank C (12) (Diminuir o custo "Katon: Housenka no Jutsu (Estilo do Fogo: Técnica das Flores de Fogo)")
   * Doação Donida (1 PT)
 
 * # **Jutsus**
@@ -190,8 +190,8 @@
     **Custo de Ações:** 2 PA </br>
 
     ### **Katon: Housenka no Jutsu (Estilo do Fogo: Técnica das Flores de Fogo)** </br>
-    **Custo:** 12 de Chakra </br>
-    **Rank:** C (3/6) </br>
+    **Custo:** 10 de Chakra </br>
+    **Rank:** C (5/6) </br>
     **Efeito:** Libera até 4 pequenas bolas de fogo pela boca. </br>
     **Dano:** 1d4 por Bola de Fogo </br>
     **Requerimentos:** Elemento Katon </br>
@@ -213,9 +213,9 @@
     * ## **Fuuton**
     ### **Fūton: Daitoppa (Estilo do Vento: Grande Destruição)** </br>
     **Custo:** 10 de Chakra </br>
-    **Rank:** C (2/6) </br>
+    **Rank:** C </br>
     **Efeito:** Lança uma rajada de ar pela boca, empurrando seu alvo. </br>
-    **Dano:** 2d6 + 3d4 </br>
+    **Dano:** 5d4 </br>
     **Requerimentos:** Elemento Fuuton </br>
     **Range:** Médio </br>
     **Aprendizado:** C </br>
