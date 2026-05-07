@@ -81,14 +81,14 @@
   * Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)")
   * Aprender rank D (3 PT) (Aprender "Oboro Bunshin no Jutsu (Técnica do Clone de Neblina)")
   * Aprender rank D (3 PT) (Aprender "Funyu/Kaifu no Jutsu (Técnica de Anexamento/Deslacramento)")
-  * Horas complementares (1 PT) (+15 Ryõ)
+  * Horas complementares (1) (+15 Ryõ)
 
   ### **Treino Level 7 (Treino Médio; 1 de Inteligência; Rank C) (67 Pontos)**
   * Ir atrás de Sensei (20) (Quiron)
   * Aprender Fuuton rank B (22) ("Fūton: Shinkuugyoku (Estilo do Vento: Esfera de Vácuo)")
   * Aprimorar Ninjutsu Elemental rank C (12) (Aumentar o range "Katon: Housenka no Jutsu (Estilo do Fogo: Técnica das Flores de Fogo)")
   * Aprimorar Ninjutsu Elemental rank C (12) (Diminuir o custo "Katon: Housenka no Jutsu (Estilo do Fogo: Técnica das Flores de Fogo)")
-  * Doação Donida (1 PT)
+  * Doação Donida (1) (-)
 
 * # **Jutsus**
     * ## **Ninjutsus**
