@@ -13,7 +13,7 @@
     **Habilidade Inata:** - </br>
     **Classe:** Usuário de Chakra </br>
     **Alinhamento:** Lawful Good </br>
-    **Ryou:** 660 Ryou </br>
+    **Ryou:** 645 Ryou </br>
     **Elemento:** Katon; Fuuton; Raiton </br>
     **Kekkei Genkai:** Shinton </br>
 
@@ -88,7 +88,7 @@
   * Aprender Fuuton rank B (22) ("Fūton: Shinkuugyoku (Estilo do Vento: Esfera de Vácuo)")
   * Aprimorar Ninjutsu Elemental rank C (12) (Aumentar o range "Katon: Housenka no Jutsu (Estilo do Fogo: Técnica das Flores de Fogo)")
   * Aprimorar Ninjutsu Elemental rank C (12) (Aumentar o dano "Fūton: Daitoppa (Estilo do Vento: Grande Destruição)")
-  * Horas complementares (1 PT) (+15 Ryõ)
+  * Doação Donida (1 PT)
 
 * # **Jutsus**
     * ## **Ninjutsus**
