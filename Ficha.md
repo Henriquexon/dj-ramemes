@@ -8,20 +8,20 @@
     **Dano do Soco:** 1d4 (Nível 1) </br>
     **PA's:** 3 </br>
     **Idade:** 26 anos </br>
-    **Nível:** 07 </br>
+    **Nível:** 08 </br>
     **Clã:** Sarutobi (8 Pontos) </br>
     **Habilidade Inata:** - </br>
     **Classe:** Usuário de Chakra </br>
     **Alinhamento:** Lawful Good </br>
-    **Ryou:** 645 Ryou </br>
+    **Ryou:** 575 Ryou </br>
     **Elemento:** Katon; Fuuton; Raiton </br>
     **Kekkei Genkai:** Shinton </br>
 
 * ## **Vida e Chakra**
     | Ramemes | HP (6 x level) | CP 10 + 10 + (10 x level) |                        
     | :--: | :--:  | :--: |
-    | **Atual**| 42 | 90 |
-    |**Máximo**| 42  | 90 |
+    | **Atual**| 48 | 100 |
+    |**Máximo**| 48  | 100 |
 
 * ## **Atributos**
     | NIN | TAI | GEN | INT | DES | CON | CAR |
