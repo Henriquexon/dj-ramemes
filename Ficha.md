@@ -18,7 +18,7 @@
     **Kekkei Genkai:** Shinton </br>
 
 * ## **Vida e Chakra**
-    | Ramemes | HP 1 + (6 x level) | CP 10 + 10 + (10 x level) |                        
+    | Ramemes | HP ((6 + Cons/2) x level) | CP 10 + 10 + (10 x level) |                        
     | :--: | :--:  | :--: |
     | **Atual**| 48 | 100 |
     |**Máximo**| 48  | 100 |
