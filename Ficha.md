@@ -1,6 +1,6 @@
 # **Ramemes**
 
-![Ramemes](djramemes-Naruto.jpeg)
+![Ramemes](Ramemes-Naruto.jpeg)
 
 * ## **Registro Geral**
     **Carregamento de Chakra:** +10 de Chakra </br>
