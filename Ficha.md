@@ -38,10 +38,10 @@
     **Ninjutsu¹:** Kawarimi no Jutsu (Técnica de Substituição de Corpo) </br>
     **Ninjutsu²:** - </br>
     **Taijutsu:** Desvio </br>
-    **Inteligência:** Genjutsu Kai (Dissipação de Genjutsu) </br>
-    **Constituição:** Absorver Dano </br>
-    **Destreza:** Arma Corpo-a-Corpo </br>
     **Genjutsu:** - </br>
+    **Inteligência:** Genjutsu Kai (Dissipação de Genjutsu) </br>
+    **Destreza:** Arma Corpo-a-Corpo </br>
+    **Constituição:** Absorver Dano </br>
     **Contra-ataque:** Raiton: Raijū Tsuiga (Estilo Raio: Rastreamento de Presa da Besta Relâmpago)</br>
     **Ajuda:** Raiton: Raijū Tsuiga (Estilo Raio: Rastreamento de Presa da Besta Relâmpago)
 
