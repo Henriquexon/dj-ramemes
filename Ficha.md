@@ -13,7 +13,7 @@
     **Habilidade Inata:** - </br>
     **Classe:** Usuário de Chakra </br>
     **Alinhamento:** Lawful Good </br>
-    **Ryou:** 575 Ryou </br>
+    **Ryõ:** 575 Ryou </br>
     **Elemento:** Katon; Fuuton; Raiton </br>
     **Kekkei Genkai:** Shinton </br>
 
@@ -159,7 +159,6 @@
    **Custo de Ações:** 2 PA </br>
 
     * ## **Fuuinjutsu**
-
    ### **Funyu/Kaifu no Jutsu (Técnica de Anexamento/Deslacramento)** </br>
    **Custo:** 1 de Chakra para cada 250g </br>
    **Rank:** D </br>
