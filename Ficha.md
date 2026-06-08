@@ -70,8 +70,8 @@
 * ## **Talentos de Perícia**
 
 * ## **Upgrade de Clã**
-   * **Rank C:** Kekkei Genkai Shinton (Fuuton + Raiton: Soma os modificadores de Fuuton e Raiton)
-   * **Rank B:** Kekkei Toutta Shōinton (Shinton + Katon: Soma os modificadores de Fuuton e Katon)
+   * **Rank C:** Kekkei Genkai Shinton (Fuuton + Raiton: Soma os modificadores de Fuuton e Raiton) + Jutsu da KG
+   * **Rank B:** Kekkei Toutta Shōinton (Shinton + Katon: Soma os modificadores de Fuuton e Katon) + 2 Jutsus da KT
    * **Rank A:** Estilo de Luta: Sintetizador
    * **Rank S:** -
 
