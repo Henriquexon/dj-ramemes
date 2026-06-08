@@ -42,7 +42,7 @@
     **Inteligência:** Genjutsu Kai (Dissipação de Genjutsu) </br>
     **Destreza:** Arma Corpo-a-Corpo </br>
     **Constituição:** Absorver Dano </br>
-    **Contra-ataque:** Raiton: Raijū Tsuiga (Estilo Raio: Rastreamento de Presa da Besta Relâmpago)</br>
+    **Contra-ataque:** Raiton: Raijū Tsuiga (Estilo Raio: Rastreamento de Presa da Besta Relâmpago) </br>
     **Ajuda:** Raiton: Raijū Tsuiga (Estilo Raio: Rastreamento de Presa da Besta Relâmpago)
 
 * ## **Especializações (+1 de mod)**
@@ -83,12 +83,12 @@
   * Aprender rank D (3 PT) (Aprender "Funyu/Kaifu no Jutsu (Técnica de Anexamento/Deslacramento)")
   * Horas complementares (1 PT) (+15 Ryõ)
 
-  ### **Treino Level 7 (Treino Médio; 1 de Inteligência; Rank C) (67 Pontos)**
-  * Ir atrás de Sensei (20 PT) (Quiron)
-  * Aprender Fuuton rank B (22 PT) ("Fūton: Shinkuugyoku (Estilo do Vento: Esfera de Vácuo)")
-  * Aprimorar Ninjutsu Elemental rank C (12 PT) (Aumentar o range "Katon: Housenka no Jutsu (Estilo do Fogo: Técnica das Flores de Fogo)")
-  * Aprimorar Ninjutsu Elemental rank C (12 PT) (Diminuir o custo "Katon: Housenka no Jutsu (Estilo do Fogo: Técnica das Flores de Fogo)")
-  * Doação Donida (1 PT) (-)
+  ### **Treino Level 7 (Treino Médio; 1 de Inteligência; Rank C) (67 Pontos)** </br>
+  * Ir atrás de Sensei (20 PT) (Quiron) </br>
+  * Aprender Fuuton rank B (22 PT) ("Fūton: Shinkuugyoku (Estilo do Vento: Esfera de Vácuo)") </br>
+  * Aprimorar Ninjutsu Elemental rank C (12 PT) (Aumentar o range "Katon: Housenka no Jutsu (Estilo do Fogo: Técnica das Flores de Fogo)") </br>
+  * Aprimorar Ninjutsu Elemental rank C (12 PT) (Diminuir o custo "Katon: Housenka no Jutsu (Estilo do Fogo: Técnica das Flores de Fogo)") </br>
+  * Doação Donida (1 PT) (-) </br>
 
 * # **Jutsus**
     * ## **Ninjutsus**
