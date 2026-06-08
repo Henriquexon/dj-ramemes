@@ -59,13 +59,13 @@
   * #### **CHAKRA ELEVADO - (2/2 PC)**
 
 * ## **Itens (750 g/3,5 kg)**
-  * **9x Kunai de 3 pontas (2.250 g):** Kunai de três pontas. Ao se juntarem, formam uma bússola. </br>
-  * **CDJ (500 g):** Toca músicas. </br>
+  * **9x Kunai de 3 pontas (2.250 g):** Kunai de três pontas. Ao se juntarem, formam uma bússola.
+  * **CDJ (500 g):** Toca músicas.
 
 * ## **Perícia**
-  #### **Perícia em Ninjutsu (1x)** </br>
-  **Garante:** Ou um acréscimo de 10 pontos no chakra total ou conseguir mais um elemento. Nos dois casos o ninja ganha +5 pontos na regeneração de chakra. </br>
-  **Se obtida uma vez:** Seu número máximo de opções na DN de Ninjutsu se torna 2. </br>
+  #### **Perícia em Ninjutsu (1x)**
+  **Garante:** Ou um acréscimo de 10 pontos no chakra total ou conseguir mais um elemento. Nos dois casos o ninja ganha +5 pontos na regeneração de chakra.
+  **Se obtida uma vez:** Seu número máximo de opções na DN de Ninjutsu se torna 2.
 
 * ## **Talentos de Perícia**
 
@@ -81,14 +81,14 @@
   * Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)")
   * Aprender rank D (3 PT) (Aprender "Oboro Bunshin no Jutsu (Técnica do Clone de Neblina)")
   * Aprender rank D (3 PT) (Aprender "Funyu/Kaifu no Jutsu (Técnica de Anexamento/Deslacramento)")
-  * Horas complementares (1) (+15 Ryõ)
+  * Horas complementares (1 PT) (+15 Ryõ)
 
   ### **Treino Level 7 (Treino Médio; 1 de Inteligência; Rank C) (67 Pontos)**
-  * Ir atrás de Sensei (20) (Quiron)
-  * Aprender Fuuton rank B (22) ("Fūton: Shinkuugyoku (Estilo do Vento: Esfera de Vácuo)")
-  * Aprimorar Ninjutsu Elemental rank C (12) (Aumentar o range "Katon: Housenka no Jutsu (Estilo do Fogo: Técnica das Flores de Fogo)")
-  * Aprimorar Ninjutsu Elemental rank C (12) (Diminuir o custo "Katon: Housenka no Jutsu (Estilo do Fogo: Técnica das Flores de Fogo)")
-  * Doação Donida (1) (-)
+  * Ir atrás de Sensei (20 PT) (Quiron)
+  * Aprender Fuuton rank B (22 PT) ("Fūton: Shinkuugyoku (Estilo do Vento: Esfera de Vácuo)")
+  * Aprimorar Ninjutsu Elemental rank C (12 PT) (Aumentar o range "Katon: Housenka no Jutsu (Estilo do Fogo: Técnica das Flores de Fogo)")
+  * Aprimorar Ninjutsu Elemental rank C (12 PT) (Diminuir o custo "Katon: Housenka no Jutsu (Estilo do Fogo: Técnica das Flores de Fogo)")
+  * Doação Donida (1 PT) (-)
 
 * # **Jutsus**
     * ## **Ninjutsus**
