@@ -64,8 +64,8 @@
 
 * ## **Perícia**
   #### **Perícia em Ninjutsu (1x)**
-  **Garante:** Ou um acréscimo de 10 pontos no chakra total ou conseguir mais um elemento. Nos dois casos o ninja ganha +5 pontos na regeneração de chakra.
-  **Se obtida uma vez:** Seu número máximo de opções na DN de Ninjutsu se torna 2.
+  **Garante:** Ou um acréscimo de 10 pontos no chakra total ou conseguir mais um elemento. Nos dois casos o ninja ganha +5 pontos na regeneração de chakra. </br>
+  **Se obtida uma vez:** Seu número máximo de opções na DN de Ninjutsu se torna 2. </br>
 
 * ## **Talentos de Perícia**
 
@@ -76,12 +76,12 @@
    * **Rank S:** -
 
 * ## **Treinos**
-  ### **Treino de Level 6 (Treino Médio; 1 de Inteligência; Rank C) (67 Pontos)**
-  * Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)")
-  * Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)")
-  * Aprender rank D (3 PT) (Aprender "Oboro Bunshin no Jutsu (Técnica do Clone de Neblina)")
-  * Aprender rank D (3 PT) (Aprender "Funyu/Kaifu no Jutsu (Técnica de Anexamento/Deslacramento)")
-  * Horas complementares (1 PT) (+15 Ryõ)
+  ### **Treino de Level 6 (Treino Médio; 1 de Inteligência; Rank C) (67 Pontos)** </br>
+  * Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)") </br>
+  * Aprimorar rank C (30 PT) (Aprimorar dano "Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)") </br>
+  * Aprender rank D (3 PT) (Aprender "Oboro Bunshin no Jutsu (Técnica do Clone de Neblina)") </br>
+  * Aprender rank D (3 PT) (Aprender "Funyu/Kaifu no Jutsu (Técnica de Anexamento/Deslacramento)") </br>
+  * Horas complementares (1 PT) (+15 Ryõ) </br>
 
   ### **Treino Level 7 (Treino Médio; 1 de Inteligência; Rank C) (67 Pontos)** </br>
   * Ir atrás de Sensei (20 PT) (Quiron) </br>
