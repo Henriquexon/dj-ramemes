@@ -171,14 +171,14 @@
    **Custo de Ações:** 2 PA </br>
 
    ### **Sanzengarasu no Jutsu (Técnica do Enxame de Corvos Dispersos)** </br>
-   **Custo: 5 de Chakra por Turno </br>
-   **Rank: C </br>
-   **Efeito: Concentração. O ninja invoca um grupo de corvos que atrapalham a visão de todos os ninjas que estiverem na área da técnica, causando cegueira. Como se trata de uma técnica de clonagem, mesmo que os corvos sejam mortos, outros nascerão no seu lugar imediatamente, sendo impossível de se livrar deles. O ninja precisa se manter parado e com as duas mãos livres enquanto essa técnica estiver ativa para poder manipular os corvos. Pode gastar 1 PA para movimentar os corvos em qualquer direção no seu alcance, cada 1 PA gasto permite que os corvos se desloquem 7 metros. </br>
-   **Dano: - </br>
-   **Requerimentos: - </br>
-   **Range: Médio; Raio Pequeno </br>
-   **Aprendizado: C </br>
-   **Custo de Ações: 1 PA para ativar </br>
+   **Custo:** 5 de Chakra por Turno </br>
+   **Rank:** C </br>
+   **Efeito:** Concentração. O ninja invoca um grupo de corvos que atrapalham a visão de todos os ninjas que estiverem na área da técnica, causando cegueira. Como se trata de uma técnica de clonagem, mesmo que os corvos sejam mortos, outros nascerão no seu lugar imediatamente, sendo impossível de se livrar deles. O ninja precisa se manter parado e com as duas mãos livres enquanto essa técnica estiver ativa para poder manipular os corvos. Pode gastar 1 PA para movimentar os corvos em qualquer direção no seu alcance, cada 1 PA gasto permite que os corvos se desloquem 7 metros. </br>
+   **Dano:** - </br>
+   **Requerimentos:** - </br>
+   **Range:** Médio; Raio Pequeno </br>
+   **Aprendizado:** C </br>
+   **Custo de Ações:** 1 PA para ativar </br>
 
 
     * ## **Fuuinjutsu**
