@@ -8,31 +8,31 @@
     **Dano do Soco:** 1d4 (Nível 1) </br>
     **PA's:** 3 </br>
     **Idade:** 26 anos </br>
-    **Nível:** 08 </br>
+    **Nível:** 09 </br>
     **Clã:** Sarutobi (8 Pontos) </br>
     **Habilidade Inata:** - </br>
     **Classe:** Usuário de Chakra </br>
     **Alinhamento:** Lawful Good </br>
-    **Ryõ:** 575 Ryou </br>
+    **Ryõ:** 1375 Ryou </br>
     **Elemento:** Katon; Fuuton; Raiton </br>
     **Kekkei Genkai:** Shinton </br>
 
 * ## **Vida e Chakra**
-    | Ramemes | HP ((6 + Cons/2) x level) | CP 10 + 10 + (10 x level) |                        
+    | Ramemes | HP ((6 + Cons/2) x level) | CP 10 + 10 + 10 + (10 x level) |                        
     | :--: | :--:  | :--: |
-    | **Atual**| 48 | 100 |
-    |**Máximo**| 48  | 100 |
+    | **Atual**| 54 | 120 |
+    |**Máximo**| 54  | 120 |
 
 * ## **Atributos**
     | NIN | TAI | GEN | INT | DES | CON | CAR |
     | :--: | :--:  | :--:  | :--:  | :--: | :--:  | :--:  | 
-    | +3 | -1 | -1 | +1 | -1 | +1 | +2 |
+    | +4 | -1 | -1 | +1 | -1 | +1 | +2 |
 
 * ## **Defesas Ninja (DN)**
     | DN | Nin¹ | Nin² | Tai | Gen | Int | Des | Con | Contra-Ataque | Ajuda |  
     | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |                  
     |**Inicial**| 8 | 8 | 6 | 8 | 9 | 6 | 10 | 4 | 6 |  
-    | **Final**| 11 | 11 | 5 | - | 10 | 5 | 11 | 7 | 9 |
+    | **Final**| 12 | 12 | 5 | - | 10 | 5 | 11 | 8 | 10 |
   
     #### **Técnicas de DN's**
     **Ninjutsu¹:** Kawarimi no Jutsu (Técnica de Substituição de Corpo) </br>
@@ -66,8 +66,10 @@
   #### **Perícia em Ninjutsu (1x)**
   **Garante:** Ou um acréscimo de 10 pontos no chakra total ou conseguir mais um elemento. Nos dois casos o ninja ganha +5 pontos na regeneração de chakra. </br>
   **Se obtida uma vez:** Seu número máximo de opções na DN de Ninjutsu se torna 2. </br>
+  **Se obtida duas vezes:** +1 de Ninjutsu; 4 Pontos de Perícia. </br>
 
 * ## **Talentos de Perícia**
+  * #### **SANGUE NOS OLHOS - (4 PC)**
 
 * ## **Upgrade de Clã**
    * **Rank C:** Kekkei Genkai Shinton (Fuuton + Raiton: Soma os modificadores de Fuuton e Raiton) + Jutsu da KG
@@ -158,6 +160,27 @@
    **Aprendizado:** C </br>
    **Custo de Ações:** 2 PA </br>
 
+   ### **Sōshūjin (Avanço das Lâminas Manipuladas)** </br>
+   **Custo:** 8 de Chakra </br>
+   **Rank:** C </br>
+   **Efeito:** Levita até 4 kunais com chakra e dispara todas ao mesmo tempo sem utilização de selos de mão. </br>
+   **Dano:** - </br>
+   **Requerimentos:** - </br>
+   **Range:** Médio </br>
+   **Aprendizado:** C </br>
+   **Custo de Ações:** 2 PA </br>
+
+   ### **Sanzengarasu no Jutsu (Técnica do Enxame de Corvos Dispersos)** </br>
+   **Custo: 5 de Chakra por Turno </br>
+   **Rank: C </br>
+   **Efeito: Concentração. O ninja invoca um grupo de corvos que atrapalham a visão de todos os ninjas que estiverem na área da técnica, causando cegueira. Como se trata de uma técnica de clonagem, mesmo que os corvos sejam mortos, outros nascerão no seu lugar imediatamente, sendo impossível de se livrar deles. O ninja precisa se manter parado e com as duas mãos livres enquanto essa técnica estiver ativa para poder manipular os corvos. Pode gastar 1 PA para movimentar os corvos em qualquer direção no seu alcance, cada 1 PA gasto permite que os corvos se desloquem 7 metros. </br>
+   **Dano: - </br>
+   **Requerimentos: - </br>
+   **Range: Médio; Raio Pequeno </br>
+   **Aprendizado: C </br>
+   **Custo de Ações: 1 PA para ativar </br>
+
+
     * ## **Fuuinjutsu**
    ### **Funyu/Kaifu no Jutsu (Técnica de Anexamento/Deslacramento)** </br>
    **Custo:** 1 de Chakra para cada 250g </br>
@@ -218,6 +241,16 @@
     **Efeito:** Lança uma rajada de ar pela boca, empurrando seu alvo. </br>
     **Dano:** 5d4 </br>
     **Requerimentos:** Elemento Fuuton </br>
+    **Range:** Médio </br>
+    **Aprendizado:** C </br>
+    **Custo de Ações:** 2 PA </br>
+
+    ### **Fūton: Reppushou (Liberação de Vento: Palma do Vendaval)** </br>
+    **Custo:** 6 de Chakra </br>
+    **Rank:** C </br>
+    **Efeito:** Comprime o ar e o transforma num poderoso vendaval, derrubando seu adversário. </br>
+    **Dano:** - </br>
+    **Requerimentos:** Elemento Fūton </br>
     **Range:** Médio </br>
     **Aprendizado:** C </br>
     **Custo de Ações:** 2 PA </br>
