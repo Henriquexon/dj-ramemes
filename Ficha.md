@@ -92,8 +92,8 @@
   * Aprimorar Ninjutsu Elemental rank C (12 PT) (Diminuir o custo "Katon: Housenka no Jutsu (Estilo do Fogo: Técnica das Flores de Fogo)") </br>
   * Doação Donida (1 PT) (-) </br>
 
-* # **Jutsus (Rank D: 7;Rank C: 2)**
-    * ## **Ninjutsus**
+* # **Jutsus**
+    * ## **Ninjutsus (Rank D: 7;Rank C: 2)**
    ### **Henge no Jutsu (Técnica de Transformação)** </br>
    **Custo:** 2 de Chakra por Turno </br>
    **Rank:** D </br>
