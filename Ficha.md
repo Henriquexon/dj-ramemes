@@ -63,7 +63,7 @@
   * **CDJ (500 g):** Toca músicas.
 
 * ## **Perícia**
-  #### **Perícia em Ninjutsu (1x)**
+  #### **Perícia em Ninjutsu (2x)**
   **Garante:** Ou um acréscimo de 10 pontos no chakra total ou conseguir mais um elemento. Nos dois casos o ninja ganha +5 pontos na regeneração de chakra. </br>
   **Se obtida uma vez:** Seu número máximo de opções na DN de Ninjutsu se torna 2. </br>
   **Se obtida duas vezes:** +1 de Ninjutsu; 4 Pontos de Perícia. </br>
@@ -92,7 +92,7 @@
   * Aprimorar Ninjutsu Elemental rank C (12 PT) (Diminuir o custo "Katon: Housenka no Jutsu (Estilo do Fogo: Técnica das Flores de Fogo)") </br>
   * Doação Donida (1 PT) (-) </br>
 
-* # **Jutsus**
+* # **Jutsus (Rank D: 7;Rank C: 2)**
     * ## **Ninjutsus**
    ### **Henge no Jutsu (Técnica de Transformação)** </br>
    **Custo:** 2 de Chakra por Turno </br>
@@ -181,7 +181,7 @@
    **Custo de Ações:** 1 PA para ativar </br>
 
 
-    * ## **Fuuinjutsu**
+    * ## **Fuuinjutsu (Rank D: 1; Rank C: 1)**
    ### **Funyu/Kaifu no Jutsu (Técnica de Anexamento/Deslacramento)** </br>
    **Custo:** 1 de Chakra para cada 250g </br>
    **Rank:** D </br>
@@ -203,7 +203,7 @@
    **Custo de Ações:** 1 PA </br>
 
 
-    * ## **Katon**
+    * ## **Katon (Rank C: 3)**
     ### **Katon: Endan (Estilo do Fogo: Bola de Fogo)** </br>
     **Custo:** 10 de Chakra </br>
     **Rank:** C </br>
@@ -234,7 +234,7 @@
     **Custo de Ações:** 2 PA </br>
 
 
-    * ## **Fuuton**
+    * ## **Fuuton (Rank C: 2; Rank B: 1)**
     ### **Fūton: Daitoppa (Estilo do Vento: Grande Destruição)** </br>
     **Custo:** 10 de Chakra </br>
     **Rank:** C </br>
@@ -266,7 +266,7 @@
     **Custo de Ações:** 2 PA </br>
 
 
-    * ## **Raiton**
+    * ## **Raiton (Rank C: 1)**
     ### **Raiton: Raijū Tsuiga (Estilo Raio: Rastreamento de Presa da Besta Relâmpago)** </br>
     **Custo:** 10 de Chakra </br>
     **Rank:** C </br>
@@ -277,7 +277,7 @@
     **Custo de Ações:** 2 PA </br>
 
     
-    * ## **Shinton**
+    * ## **Shinton (Rank C: 1)**
     ### **Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)** </br>
     **Custo:** 12 de Chakra </br>
     **Rank:** C (4/6) </br>
