@@ -93,7 +93,8 @@
   * Doação Donida (1 PT) (-) </br>
 
 * # **Jutsus**
-    * ## **Ninjutsus (Rank D: 7;Rank C: 2)**
+    * ## **Ninjutsus </br>
+     (Rank D: 7;Rank C: 2)**
    ### **Henge no Jutsu (Técnica de Transformação)** </br>
    **Custo:** 2 de Chakra por Turno </br>
    **Rank:** D </br>
@@ -181,7 +182,8 @@
    **Custo de Ações:** 1 PA para ativar </br>
 
 
-    * ## **Fuuinjutsu (Rank D: 1; Rank C: 1)**
+    * ## **Fuuinjutsu </br>
+    (Rank D: 1; Rank C: 1)**
    ### **Funyu/Kaifu no Jutsu (Técnica de Anexamento/Deslacramento)** </br>
    **Custo:** 1 de Chakra para cada 250g </br>
    **Rank:** D </br>
@@ -203,7 +205,8 @@
    **Custo de Ações:** 1 PA </br>
 
 
-    * ## **Katon (Rank C: 3)**
+    * ## **Katon </br>
+    (Rank C: 3)**
     ### **Katon: Endan (Estilo do Fogo: Bola de Fogo)** </br>
     **Custo:** 10 de Chakra </br>
     **Rank:** C </br>
@@ -234,7 +237,8 @@
     **Custo de Ações:** 2 PA </br>
 
 
-    * ## **Fuuton (Rank C: 2; Rank B: 1)**
+    * ## **Fuuton </br>
+    (Rank C: 2; Rank B: 1)**
     ### **Fūton: Daitoppa (Estilo do Vento: Grande Destruição)** </br>
     **Custo:** 10 de Chakra </br>
     **Rank:** C </br>
@@ -266,7 +270,8 @@
     **Custo de Ações:** 2 PA </br>
 
 
-    * ## **Raiton (Rank C: 1)**
+    * ## **Raiton </br>
+    (Rank C: 1)**
     ### **Raiton: Raijū Tsuiga (Estilo Raio: Rastreamento de Presa da Besta Relâmpago)** </br>
     **Custo:** 10 de Chakra </br>
     **Rank:** C </br>
@@ -277,7 +282,8 @@
     **Custo de Ações:** 2 PA </br>
 
     
-    * ## **Shinton (Rank C: 1)**
+    * ## **Shinton </br>
+    (Rank C: 1)**
     ### **Shinton: Gōonpa no Jutsu (Estilo Vibração: Onda sonora trovejante)** </br>
     **Custo:** 12 de Chakra </br>
     **Rank:** C (4/6) </br>
